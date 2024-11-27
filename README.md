@@ -57,8 +57,6 @@ permission by Microsoft. Microsoft reserves all other rights.
 
 ## Alternatively, you can download and save the files locally, then utilise the Open Library feature within draw.io
 
-[Azure Architecture Icons for Draw.io v1.1 October 2024](https://github.com/dwarfered/azure-icons-for-drawio/releases/tag/v1.1)
-
 <img src="readme-files/screen-1.png" width="600">
 
 <img src="readme-files/screen-2.png" width="600">
