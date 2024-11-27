@@ -12,7 +12,7 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [microsoft 365 architecture icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F2024-microsoft-365-content-icons.xml)
 
-## Project Developed Icons
+## Project Developed Public Service Icons
 
 ### Azure Architecture Styling
 <p align="center">
