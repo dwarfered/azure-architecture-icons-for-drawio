@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Access policies" id="uCcfJKcZdmCkD09bYDg_">
+    <mxGraphModel dx="1026" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-1" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#D8D8D8;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AlaLKRe1OD0ZMQSho4of-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="204" as="sourcePoint" />
+            <mxPoint x="1156" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-2" value="Identity and device access policies" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0178D4;fontStyle=1;fontSize=32;align=left;spacingLeft=10;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="11" y="9" width="1150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-3" value="Starting point" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="10" y="193" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-4" value="PCs" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDQ4IDIwNDgiIGNvbG9yPSIjMzIzMTMwIiBjbGFzcz0iY3NzLTE3OSIgYXJpYS1sYWJlbD0iV2luZG93cyIgZmlsbD0iY3VycmVudENvbG9yIiBoZWlnaHQ9IjFlbSIgd2lkdGg9IjFlbSI+PHBhdGggZD0iTTg5NiA4OTZIMFYwaDg5NnY4OTZ6bTEwMjQgMGgtODk2VjBoODk2djg5NnpNODk2IDE5MjBIMHYtODk2aDg5NnY4OTZ6bTEwMjQgMGgtODk2di04OTZoODk2djg5NnoiLz48L3N2Zz4=;imageBackground=default;" parent="1" vertex="1">
+          <mxGeometry x="165" y="143" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-5" value="iOS" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgY29sb3I9IiMzMjMxMzAiIGNsYXNzPSJjc3MtMTc5IiBhcmlhLWxhYmVsPSJpT1MvaVBhZE9TIiBmaWxsPSJjdXJyZW50Q29sb3IiIGhlaWdodD0iMWVtIiB3aWR0aD0iMWVtIj48cGF0aCBkPSJNOC4yNTUgN2MuOTY3IDAgMS43NS43ODMgMS43NSAxLjc1djkuNUExLjc1IDEuNzUgMCAwIDEgOC4yNTUgMjBIMy43NTFhMS43NSAxLjc1IDAgMCAxLTEuNzUtMS43NXYtOS41YzAtLjk2Ny43ODMtMS43NSAxLjc1LTEuNzVoNC41MDRabTAgMS41SDMuNzUxYS4yNS4yNSAwIDAgMC0uMjUuMjV2OS41YzAgLjEzOC4xMTIuMjUuMjUuMjVoNC41MDRhLjI1LjI1IDAgMCAwIC4yNS0uMjV2LTkuNWEuMjUuMjUgMCAwIDAtLjI1LS4yNVpNNi4yNTMgMTZhLjc1Ljc1IDAgMCAxIC4xMDIgMS40OTNsLS4xMDIuMDA3aC0uNWEuNzUuNzUgMCAwIDEtLjEwMi0xLjQ5M0w1Ljc1MyAxNmguNVpNMTkuNzUgNGEyLjI1IDIuMjUgMCAwIDEgMi4yNDUgMi4wOTZMMjIgNi4yNXY4LjVhMi4yNSAyLjI1IDAgMCAxLTIuMDk2IDIuMjQ1TDE5Ljc1IDE3SDExdi0xLjVoOC43NWEuNzUuNzUgMCAwIDAgLjc0NC0uNjQ4bC4wMDYtLjEwMnYtOC41YS43NS43NSAwIDAgMC0uNjQ4LS43NDNMMTkuNzUgNS41SDguMjVhLjc1Ljc1IDAgMCAwLS43MDcuNUg2LjAxNGEyLjI1IDIuMjUgMCAwIDEgMi4wNzItMS45OTRMOC4yNSA0aDExLjVabS00LjUgOWEuNzUuNzUgMCAwIDEgMCAxLjVoLTIuNWEuNzUuNzUgMCAxIDEgMC0xLjVoMi41WiIvPjwvc3ZnPg==;imageBackground=default;" parent="1" vertex="1">
+          <mxGeometry x="141" y="220" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-6" value="Android" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDQ4IDIwNDgiIGNvbG9yPSIjMzIzMTMwIiBjbGFzcz0iY3NzLTE3OSIgYXJpYS1sYWJlbD0iQW5kcm9pZCIgZmlsbD0iY3VycmVudENvbG9yIiBoZWlnaHQ9IjFlbSIgd2lkdGg9IjFlbSI+PHBhdGggZD0iTTE1MjYgNjY2cTExMyA2MiAyMDQgMTQ3dDE1OSAxOTAgMTA3IDIyMiA1MiAyNDdIMHExMC0xMjggNTAtMjQ3dDEwOC0yMjIgMTU5LTE4OSAyMDUtMTQ4cS02LTExLTIxLTM3dC0zNS01OS00MC02OS0zOS02Ny0yOC01My0xMi0yOHEwLTE0IDExLTI0dDI1LTExcTIwIDAgMzAgMThsMTczIDI5OXExMDMtNDggMjEzLTcxdDIyNS0yM3ExMTQgMCAyMjQgMjN0MjE0IDcxbDE3My0yOTlxMTAtMTggMzAtMTggMTQgMCAyNSAxMHQxMSAyNXEwIDUtMTEgMjd0LTI5IDU0LTM4IDY3LTQxIDY5LTM0IDU5LTIyIDM3em0tOTczIDUxNHEzNSAwIDYwLTI1dDI1LTYwcTAtMzUtMjUtNjB0LTYwLTI1cS0xOCAwLTMzIDZ0LTI3IDE4LTE5IDI3LTcgMzRxMCAxOCA3IDMzdDE4IDI3IDI3IDE4IDM0IDd6bTk0MiAwcTE3IDAgMzItNnQyOC0xOCAxOS0yNyA3LTM0cTAtMTgtNy0zM3QtMTgtMjctMjctMTgtMzQtN3EtMzUgMC02MCAyNXQtMjUgNjBxMCAzNSAyNSA2MHQ2MCAyNXoiLz48L3N2Zz4=;imageBackground=default;" parent="1" vertex="1">
+          <mxGeometry x="181" y="220" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-7" value="Microsoft Entra Conditional Access policies" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0178D4;fontSize=16;fontStyle=1;align=left;fontColor=#FFFFFF;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="253" y="68" width="469" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-8" value="Intune device compliance&lt;div&gt;policy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0178D4;fontSize=16;fontStyle=1;align=left;fontColor=#FFFFFF;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="734" y="68" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-9" value="Intune app protection policies" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0178D4;fontSize=16;fontStyle=1;align=left;fontColor=#FFFFFF;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="961" y="68" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-10" value="Require MFA when sign-in risk is &lt;i&gt;medium &lt;/i&gt;or &lt;i&gt;high&lt;/i&gt;." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=14;fontColor=#333333;fillColor=#CAEAF9;strokeColor=none;verticalAlign=top;align=left;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="254" y="138" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-11" value="Device Type" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0178D4;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="152" y="78" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-12" value="Protection Level" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0178D4;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="15" y="78" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-13" value="Require approved apps." style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#333333;fillColor=#CAEAF9;strokeColor=none;verticalAlign=top;align=left;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="413" y="216" width="140" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="AlaLKRe1OD0ZMQSho4of-14" value="Reference -&amp;nbsp;&lt;a href=&quot;https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-tech-illus&quot;&gt;Zero Trust illustrations for IT architects and implementers | Microsoft Learn&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="233" y="787" width="687" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
