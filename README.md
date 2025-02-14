@@ -120,7 +120,7 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [028 - storage](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F028%20storage.xml)
 
-    <img src="readme-files/028 storage.png width="600">
+    <img src="readme-files/028 storage.png" width="600">
 
 - [029 - web](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F029%20web.xml)
 
