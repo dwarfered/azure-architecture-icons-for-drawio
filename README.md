@@ -12,13 +12,23 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [001 - ai + machine learning](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F001%20ai%20%2B%20machine%20learning.xml)
 
+    <img src="readme-files/001 ai + machine learning.png" width="600">
+
 - [002 - analytics](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F002%20analytics.xml)
+
+    <img src="readme-files/002 analytics.png" width="600">
 
 - [003 - app services](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F003%20app%20services.xml)
 
+    <img src="readme-files/003 app services.png" width="600">
+
 - [004 - azure ecosystem](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F004%20azure%20ecosystem.xml)
 
+    <img src="readme-files/004 azure ecosystem.png" width="600">
+
 - [005 - azure stack](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F005%20azure%20stack.xml)
+
+    <img src="readme-files/005 azure stack.png" width="600">
 
 - [006 - blockchain](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F006%20blockchain.xml)
 
