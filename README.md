@@ -52,15 +52,27 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [011 - general](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F011%20general.xml)
 
+    <img src="readme-files/011 general.png" width="600">
+
 - [012 - hybrid + multicloud](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F012%20hybrid%20%2B%20multicloud.xml)
+
+    <img src="readme-files/012 hybrid + multicloud.png" width="600">
 
 - [013 - identity](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F013%20identity.xml)
 
+    <img src="readme-files/013 identity.png" width="600">
+
 - [014 - integration](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F014%20integration.xml)
+
+    <img src="readme-files/014 integration.png" width="600">
 
 - [015 - intune](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F015%20intune.xml)
 
+    <img src="readme-files/015 intune.png" width="600">
+
 - [016 - iot](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F016%20iot.xml)
+
+    <img src="readme-files/017 management + governance.png" width="600">
 
 - [017 - management + governance](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F017%20management%20%2B%20governance.xml)
 
