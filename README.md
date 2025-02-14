@@ -163,7 +163,7 @@ permission by Microsoft. Microsoft reserves all other rights.
 
 No license restrictions.
 
-## Download and save the files locally, then utilise the Open Library feature within draw.io
+## Alternatively, download and save the files locally, then utilise the Open Library feature within draw.io
 
 <img src="readme-files/screen-1.png" width="600">
 
