@@ -80,27 +80,51 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [018 - menu](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F018%20menu.xml)
 
+    <img src="readme-files/018 menu.png" width="600">
+
 - [019 - migrate](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F019%20migrate.xml)
+
+    <img src="readme-files/019 migrate.png" width="600">
 
 - [020 - migration](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F020%20migration.xml)
 
+    <img src="readme-files/020 migration.png" width="600">
+
 - [021 - mixed reality](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F021%20mixed%20reality.xml)
+
+    <img src="readme-files/021 mixed reality.png" width="600">
 
 - [022 - mobile](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F022%20mobile.xml)
 
+    <img src="readme-files/022 mobile.png" width="600">
+
 - [023 - monitor](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F023%20monitor.xml)
+
+    <img src="readme-files/023 monitor.png" width="600">
 
 - [024 - networking](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F024%20networking.xml)
 
+    <img src="readme-files/024 networking.png" width="600">
+
 - [025 - new icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F025%20new%20icons.xml)
+
+    <img src="readme-files/025 new icons.png" width="600">
 
 - [026 - other](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F026%20other.xml)
 
+    <img src="readme-files/026 other.png" width="600">
+
 - [027 - security](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F027%20security.xml)
+
+    <img src="readme-files/027 security.png" width="600">
 
 - [028 - storage](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F028%20storage.xml)
 
+    <img src="readme-files/028 storage.png width="600">
+
 - [029 - web](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F029%20web.xml)
+
+    <img src="readme-files/029 web.png" width="600">
 
 ### Terms
 
