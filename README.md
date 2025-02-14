@@ -72,9 +72,11 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [016 - iot](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F016%20iot.xml)
 
-    <img src="readme-files/017 management + governance.png" width="600">
+    <img src="readme-files/016 iot.png" width="600">
 
 - [017 - management + governance](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F017%20management%20%2B%20governance.xml)
+
+    <img src="readme-files/017 management + governance.png" width="600">
 
 - [018 - menu](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F018%20menu.xml)
 
