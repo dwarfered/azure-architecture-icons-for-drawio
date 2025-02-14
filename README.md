@@ -32,13 +32,23 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 - [006 - blockchain](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F006%20blockchain.xml)
 
+    <img src="readme-files/006 blockchain.png" width="600">
+
 - [007 - compute](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F007%20compute.xml)
+
+    <img src="readme-files/007 compute.png" width="600">
 
 - [008 - containers](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F008%20containers.xml)
 
+    <img src="readme-files/008 containers.png" width="600">
+
 - [009 - databases](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F009%20databases.xml)
 
+    <img src="readme-files/009 databases.png" width="600">
+
 - [010 - devops](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F010%20devops.xml)
+
+    <img src="readme-files/010 devops.png" width="600">
 
 - [011 - general](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F011%20general.xml)
 
