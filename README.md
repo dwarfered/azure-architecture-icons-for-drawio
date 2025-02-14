@@ -10,6 +10,8 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
 ### Open in draw.io online
 
+- [000 - all azure public service icons](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F000%20all%20azure%20public%20service%20icons.xml)
+
 - [001 - ai + machine learning](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2Fazure-public-service-icons%2F001%20ai%20%2B%20machine%20learning.xml)
 
     <img src="readme-files/001 ai + machine learning.png" width="600">
