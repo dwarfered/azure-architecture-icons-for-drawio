@@ -6,7 +6,7 @@
 
 A collection of Azure icons, featuring Azure product symbols, to assist in crafting architecture diagrams in draw.io.
 
-[www.linkedin.com/in/chris-dymond](www.linkedin.com/in/chris-dymond)
+[www.linkedin.com/in/chris-dymond](https://www.linkedin.com/in/chris-dymond)
 
 ## Microsoft Architecture Icons
 
