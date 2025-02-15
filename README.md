@@ -130,11 +130,33 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
     <img src="readme-files/029 web.png" width="600">
 
-- [101 - product suite](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2F2024-microsoft-365-content-icons%2F101%20product%20suite.xml)
+- [101 - product suite](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F101%20product%20suite.xml)
 
     <img src="readme-files/101 product suite.png" width="600">
 
-#### By group
+- [102 - microsoft blue](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F102%20microsoft%20blue.xml)
+
+    <img src="readme-files/102 microsoft blue.png" width="600">
+
+- [103 - microsoft purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F103%20microsoft%20purple.xml)
+
+    <img src="readme-files/103 microsoft purple.png" width="600">
+
+- [104 - planner green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F104%20planner%20green.xml)
+
+    <img src="readme-files/104 planner green.png" width="600">
+
+- [105 - project green](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F105%20project%20green.xml)
+
+    <img src="readme-files/105 project green.png" width="600">
+
+- [106 - sharepoint teal](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F106%20sharepoint%20teal.xml)
+
+    <img src="readme-files/106 sharepoint teal.png" width="600">
+
+- [107 - teams purple](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F107%20teams%20purple.xml)
+
+    <img src="readme-files//107 teams purple.png" width="600">
 
 ### Terms
 
