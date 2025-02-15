@@ -130,6 +130,10 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
     <img src="readme-files/029 web.png" width="600">
 
+## M365 Icons
+
+### Open in draw.io online
+
 - [101 - product suite](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fmain%2F2024-microsoft-365-content-icons%2F101%20product%20suite.xml)
 
     <img src="readme-files/101 product suite.png" width="600">
@@ -158,7 +162,7 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
     <img src="readme-files//107 teams purple.png" width="600">
 
-### Terms
+## Terms
 
 - Azure Architecture Icons
 - Microsoft 365 Architecture Icons
@@ -167,12 +171,12 @@ Microsoft permits the use of these icons in architectural diagrams, training mat
 You may copy, distribute, and display the icons only for the permitted use unless granted explicit
 permission by Microsoft. Microsoft reserves all other rights.
 
-####  Do's
+###  Do's
 - Use the icons to illustrate how products can work together
 - In diagrams, we recommend to include the product name somewhere close to the icon
 - Use the icons as they would appear within Azure
 
-#### Don'ts
+### Don'ts
 - Don’t crop, flip or rotate icons
 - Don’t distort or change icon shape in any way
 - Don’t use Microsoft product icons to represent your product or service
