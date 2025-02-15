@@ -130,6 +130,12 @@ A collection of Azure icons, featuring Azure product symbols, to assist in craft
 
     <img src="readme-files/029 web.png" width="600">
 
+- [101 - product suite](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdwarfered%2Fazure-architecture-icons-for-drawio%2Fdev%2F2024-microsoft-365-content-icons%2F101%20product%20suite.xml)
+
+    <img src="readme-files/101 product suite.png" width="600">
+
+#### By group
+
 ### Terms
 
 - Azure Architecture Icons
