@@ -6,6 +6,12 @@
 
 A collection of Azure icons, featuring Azure product symbols, to assist in crafting architecture diagrams in draw.io.
 
+## ⭐ Like this project?  
+
+If you find this repository useful, please **give it a star**!  
+
+[![GitHub stars](https://img.shields.io/github/stars/dwarfered/azure-architecture-icons-for-drawio.svg?style=social)](https://github.com/dwarfered/azure-architecture-icons-for-drawio/stargazers)
+
 [www.linkedin.com/in/chris-dymond](https://www.linkedin.com/in/chris-dymond)
 
 ## Microsoft Architecture Icons
