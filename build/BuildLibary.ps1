@@ -2,12 +2,15 @@ $ErrorActionPreference = 'stop'
 
 $zipUrl = 'https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V21.zip'
 $zipPath = 'Azure_Public_Service_Icons_V21.zip'
-$destinationPath = "./tmp/"
+$destinationPath = './tmp/'
 
 Invoke-WebRequest -Uri $zipUrl -OutFile $zipPath
 Expand-Archive -Path $zipPath -DestinationPath $destinationPath -Force
 Remove-Item $zipPath
 
+$combinedOutput = @()
+
+# Function to convert SVGs to mxlibrary format
 function Convert-SvgToMxLibrary {
     param (
         [Parameter(Mandatory)]
@@ -17,11 +20,12 @@ function Convert-SvgToMxLibrary {
         [string]$OutputFile,
 
         [int]$GeometryWidth = 48,
-        [int]$GeometryHeight = 48
+        [int]$GeometryHeight = 48,
+
+        [ref]$GlobalOutput
     )
 
     $output = @()
-    $output += "<mxlibrary>["
 
     Get-ChildItem -Path $InputFolder -Filter *.svg | ForEach-Object {
         $file = $_
@@ -29,7 +33,6 @@ function Convert-SvgToMxLibrary {
         $encodedSvg = [System.Uri]::EscapeDataString($svgContent)
         $imageUri = "data:image/svg+xml,$encodedSvg"
 
-        # Build mxCell XML
         $xml = @"
 <mxGraphModel>
   <root>
@@ -57,26 +60,40 @@ function Convert-SvgToMxLibrary {
 
         $json = ($entry | ConvertTo-Json -Compress)
         $output += "  $json,"
+
+        if ($GlobalOutput) {
+            $GlobalOutput.Value += "  $json,"
+        }
     }
 
-    if ($output.Count -gt 1) {
+    if ($output.Count -gt 0) {
         $output[-1] = $output[-1].TrimEnd(',')
     }
 
-    $output += "]</mxlibrary>"
-
+    $output = @("<mxlibrary>[") + $output + "]</mxlibrary>"
     $output -join "`n" | Set-Content -LiteralPath $OutputFile -Encoding UTF8
     Write-Host "Library saved to $OutputFile"
 }
 
-$rootFolder = "./tmp/Azure_Public_Service_Icons/Icons"
+$rootFolder = './tmp/Azure_Public_Service_Icons/Icons'
+$buildPath = './tmp/Azure_Public_Service_Icons'
 $subFolders = Get-ChildItem -Path $rootFolder -Directory
 $folderNumber = 1
-$buildPath = './tmp/Azure_Public_Service_Icons'
 
 foreach ($folder in $subFolders) {
     $prefix = $folderNumber.ToString("D3")
-    Write-Host "Reading files in folder:  $($folder.FullName)"
-    Convert-SvgToMxLibrary -InputFolder $folder.FullName -OutputFile "$buildPath/$prefix $($folder.Name).xml"
+    $outputFile = "$buildPath/$prefix $($folder.Name).xml"
+    Write-Host "Reading files in folder: $($folder.FullName)"
+
+    Convert-SvgToMxLibrary -InputFolder $folder.FullName `
+                           -OutputFile $outputFile `
+                           -GlobalOutput ([ref]$combinedOutput)
     $folderNumber++
 }
+
+if ($combinedOutput.Count -gt 0) {
+    $combinedOutput[-1] = $combinedOutput[-1].TrimEnd(',')
+}
+$combinedLibrary = @("<mxlibrary>[") + $combinedOutput + "]</mxlibrary>"
+$combinedLibrary -join "`n" | Set-Content -LiteralPath "$buildPath/000 all azure public service icons.xml" -Encoding UTF8
+Write-Host "Global library saved to 000 all azure public service icons.xml"
