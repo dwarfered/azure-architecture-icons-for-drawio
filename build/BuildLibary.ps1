@@ -30,15 +30,16 @@ function Convert-SvgToMxLibrary {
     Get-ChildItem -Path $InputFolder -Filter *.svg | ForEach-Object {
         $file = $_
         $svgContent = Get-Content -Path $file.FullName -Raw
-        $encodedSvg = [System.Uri]::EscapeDataString($svgContent)
-        $imageUri = "data:image/svg+xml,$encodedSvg"
+        $bytes = [System.Text.Encoding]::UTF8.GetBytes($svgContent)
+        $base64 = [Convert]::ToBase64String($bytes)
+        $image = "data:image/svg+xml,$base64"
 
         $xml = @"
 <mxGraphModel>
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
-    <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=$imageUri" vertex="1" parent="1">
+    <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=$image" vertex="1" parent="1">
       <mxGeometry width="$GeometryWidth" height="$GeometryHeight" as="geometry"/>
     </mxCell>
   </root>
