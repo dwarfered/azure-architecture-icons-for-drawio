@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'stop'
 
-$zipUrl = 'https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V21.zip'
+$zipUrl = 'https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V22.zip'
 $zipPath = 'Azure_Public_Service_Icons_V21.zip'
 $destinationPath = './tmp/'
 
@@ -87,8 +87,8 @@ foreach ($folder in $subFolders) {
     Write-Host "Reading files in folder: $($folder.FullName)"
 
     Convert-SvgToMxLibrary -InputFolder $folder.FullName `
-                           -OutputFile $outputFile `
-                           -GlobalOutput ([ref]$combinedOutput)
+        -OutputFile $outputFile `
+        -GlobalOutput ([ref]$combinedOutput)
     $folderNumber++
 }
 
